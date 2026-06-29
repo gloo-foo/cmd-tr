@@ -4,8 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	command "github.com/gloo-foo/cmd-tr"
 	"github.com/gloo-foo/testable"
+
+	command "github.com/gloo-foo/cmd-tr"
 )
 
 func TestTr_BasicTranslation(t *testing.T) {

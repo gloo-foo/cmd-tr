@@ -3,8 +3,9 @@ package tr_test
 import (
 	"fmt"
 
-	command "github.com/gloo-foo/cmd-tr"
 	"github.com/gloo-foo/testable"
+
+	command "github.com/gloo-foo/cmd-tr"
 )
 
 func ExampleTr_delete() {

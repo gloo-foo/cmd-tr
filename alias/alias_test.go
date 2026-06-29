@@ -5,9 +5,9 @@ import (
 	"testing"
 
 	gloo "github.com/gloo-foo/framework"
+	"github.com/gloo-foo/testable"
 
 	tr "github.com/gloo-foo/cmd-tr/alias"
-	"github.com/gloo-foo/testable"
 )
 
 // The alias package re-exports the constructor and flag constants under
