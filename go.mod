@@ -3,8 +3,8 @@ module github.com/gloo-foo/cmd-tr
 go 1.26.4
 
 require (
-	github.com/gloo-foo/framework v0.1.7
-	github.com/gloo-foo/testable v0.1.8
+	github.com/gloo-foo/framework v0.1.9
+	github.com/gloo-foo/testable v0.1.11
 )
 
 require (
